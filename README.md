@@ -1,2 +1,2 @@
 # Rat-maze-backtracking
-Rat maze with backtracking to find path to end of maze
+Rat maze with backtracking algorithm to find path to end of maze
